@@ -1,0 +1,12 @@
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\bin\Debug\BusinessClasses.dll
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\bin\Debug\BusinessClasses.pdb
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\obj\Debug\BusinessClasses.csprojAssemblyReference.cache
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\obj\Debug\BusinessClasses.csproj.CoreCompileInputs.cache
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\obj\Debug\BusinessClasses.dll
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\obj\Debug\BusinessClasses.pdb
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\bin\Debug\BusinessClasses.dll
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\bin\Debug\BusinessClasses.pdb
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\obj\Debug\BusinessClasses.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\obj\Debug\BusinessClasses.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\obj\Debug\BusinessClasses.dll
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\BusinessClasses\obj\Debug\BusinessClasses.pdb

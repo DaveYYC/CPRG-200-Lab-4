@@ -1,0 +1,30 @@
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.csprojAssemblyReference.cache
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.csproj.CoreCompileInputs.cache
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\DataClasses.dll.config
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\DataClasses.dll
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\DataClasses.pdb
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\BusinessClasses.dll
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\BusinessClasses.pdb
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.csproj.CopyComplete
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.dll
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.pdb
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\bin\Debug\DataClasses.dll.config
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\bin\Debug\DataClasses.dll
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\bin\Debug\DataClasses.pdb
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\bin\Debug\BusinessClasses.dll
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\bin\Debug\BusinessClasses.pdb
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\obj\Debug\DataClasses.csprojAssemblyReference.cache
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\obj\Debug\DataClasses.csproj.CoreCompileInputs.cache
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\obj\Debug\DataClasses.csproj.CopyComplete
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\obj\Debug\DataClasses.dll
+C:\Users\hahne\source\repos\Dave_Hahner_CPRG_200_Lab4 - Copy\DataClasses\obj\Debug\DataClasses.pdb
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\DataClasses.dll.config
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\DataClasses.dll
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\DataClasses.pdb
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\BusinessClasses.dll
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\bin\Debug\BusinessClasses.pdb
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.csproj.CopyComplete
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.dll
+C:\Users\hahne\Desktop\TechCareers\4. 17 Weeks - SAIT\11. CPRG 200 - C# Windows Forms\Labs\Dave_Hahner_CPRG_200_Lab4\DataClasses\obj\Debug\DataClasses.pdb
